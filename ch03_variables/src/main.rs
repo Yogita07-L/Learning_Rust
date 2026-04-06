@@ -6,7 +6,7 @@ fn main() {
     let x = 6;
     println!("The value of x is: {}", x);
 
-    const COUNT: u32 = 10;
+    const _COUNT: u32 = 10;
 
     /*Data Types */
 
